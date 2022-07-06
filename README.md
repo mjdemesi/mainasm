@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mainasm
-- 👀 I’m interested in backend engineering in python, java, and elixir
-- 🌱 I’m currently advancing my skills in DSA & DBS using Python & Java
-- 💞️ I’m looking to collaborate on enterprise systems design
+- 👀 I am a backend engineer specializing in Java EE, Spring, Spring Boot for enterprise systems
+- 🌱 I’m currently advancing my skills in Java Enterprise Developement 
+- 💞️ I’m looking to collaborate on enterprise systems design and implementation
 - 📫 How to reach me: maina.sam@outlook.com
 
 <!---
